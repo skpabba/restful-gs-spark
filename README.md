@@ -5,7 +5,7 @@ RESTFul Service for GigaSpaces data using SparkJava
 
 Steps to run this example
 * Clone the project to your local folder
-* Install GigaSpaces jars into your local repository using the installmavenrep.sh script
+* Install GigaSpaces jars into your local repository using the gigaspaces-xap-premium-xxx-ga/tools/maven/installmavenrep.sh/bat script
 * Run "mvn package" inside the gs-spark project
 * Run "mvn jetty:run" inside the gs-spark project
 
