@@ -15,4 +15,6 @@ Using a RESTful client invoke following methods,
 * GET on this URL, http://localhost:9080/books for getting ids of all Books in the space
 * GET on this URL, http://localhost:9080/books/<id1> for getting Details of a book with id "<id1>". Ids are generated randomly so replace it with a valid id.
 
+If you launch a GigaSpaces UI, you can see the data being stored in GigaSpaces.
+
 A good RESTful client that I used for my testing is a Google Chrome plugin called Advanced REST client and can be downloaded from here, https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo?hl=en-US.
